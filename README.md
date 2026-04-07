@@ -1,6 +1,6 @@
 # Customer Segmentation using K-Means Clustering
 
-## 📌 Project Overview
+##  Project Overview
 
 Customer segmentation is the process of dividing customers into groups based on their behavior and characteristics. This project applies **K-Means Clustering**, an unsupervised machine learning algorithm, to segment customers into distinct groups based on:
 
@@ -12,7 +12,7 @@ The segmentation helps businesses understand customer behavior and design target
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Load and preprocess customer dataset
 - Clean and scale numerical features
@@ -26,7 +26,7 @@ The segmentation helps businesses understand customer behavior and design target
 
 ---
 
-## 📂 Dataset Used
+##  Dataset Used
 
 **Dataset Name:** Mall Customers Dataset  
 
